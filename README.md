@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world! 👋
 
 
 
@@ -11,7 +11,8 @@ I’m an Open-Source enthusiast & pursuing Masters in computer Science
 👯 I’m looking to collaborate on Javascript/CSS Projects.
 
 
-
+Cheers,
+Prashant Indurkar 
 
 
 
