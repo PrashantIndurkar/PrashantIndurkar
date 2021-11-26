@@ -7,8 +7,8 @@
 ### ABOUT ME : 
 I’m an Open-Source enthusiast & pursuing Masters in computer Science 
 
-🔭 I’m currently Learning on JavaScript.  
-👯 I’m looking to collaborate on Javascript/CSS Projects.
+🔭 I’m full-stack web developer.
+👯 I’m looking to collaborate on web technologies.
 
 
 Cheers,  
