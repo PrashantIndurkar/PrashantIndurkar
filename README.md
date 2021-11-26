@@ -8,7 +8,7 @@
 I’m an Open-Source enthusiast & pursuing Masters in computer Science 
 
 🔭 I’m full-stack web developer.
-👯 I’m looking to collaborate on web technologies.
+👯 I’m looking to contribute on web technologies.
 
 
 Cheers,  
