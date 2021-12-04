@@ -1,12 +1,13 @@
 <h2> Hey Hello, I'm Prashant</h2>
+<h3 align="center">🚀 FullStack Devlover 🚀</h3>
+<img align="right" src="https://user-images.githubusercontent.com/32466796/144721328-6da5fac6-6f91-4a51-86dd-889c0dba14b1.gif" width="200" height="200"/>
+
+</br></br></br>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studying Computer Science and completed masters form university of nanded maharashtra.
+- 🌱 &nbsp; Learning more about web development 3d, AR, VR.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -16,8 +17,8 @@
 
 
 <a href="https://github.com/PrashantIndurkar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prashantindurkar&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantindurkar&theme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prashantindurkar&theme=dark&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantindurkar&theme=dark&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
 
 <br/>
