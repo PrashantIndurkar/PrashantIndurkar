@@ -1,13 +1,14 @@
 <h2> Hey Hello, I'm Prashant</h2>
 <h3 align="center">🚀 FullStack Devlover 🚀</h3>
-<img align="right" src="https://user-images.githubusercontent.com/32466796/144721328-6da5fac6-6f91-4a51-86dd-889c0dba14b1.gif" width="200" height="200"/>
+<img align="right" src="https://user-images.githubusercontent.com/32466796/144721328-6da5fac6-6f91-4a51-86dd-889c0dba14b1.gif" width="250" height="250"/>
 
 </br></br></br>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science and completed masters form university of nanded maharashtra.
-- 🌱 &nbsp; Learning more about web development 3d, AR, VR.
+- 🎓 &nbsp; Studying Computer Science and completed masters 
+    form University of Nanded Maharashtra.
+- 🌱 &nbsp; Learning more about Web Development 3d, AR, VR.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
