@@ -1,5 +1,5 @@
 <h2> Hey Hello, I'm Prashant</h2>
-<h3 align="center">🚀 FullStack Devlover 🚀</h3>
+<h3 align="center">🚀 FullStack Developer 🚀</h3>
 <img align="right" src="https://user-images.githubusercontent.com/32466796/144721328-6da5fac6-6f91-4a51-86dd-889c0dba14b1.gif" width="250" height="250"/>
 
 </br></br></br>
