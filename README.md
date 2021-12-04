@@ -18,8 +18,8 @@
 
 
 <a href="https://github.com/PrashantIndurkar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prashantindurkar&theme=dark&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantindurkar&theme=dark&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prashantindurkar&theme=algolia&show_icons=true" /> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantindurkar&theme=vision-friendly-dark&layout=compact" />
 </a>
 
 <br/>
