@@ -1,5 +1,5 @@
 
-![ Hey Hello, I'm Prashant. Full Stack Developer](https://user-images.githubusercontent.com/282759/84682528-c1d5d300-af03-11ea-9bfb-02854ad0cb20.gif)
+![ Hey Hello, I'm @Prashant. Full Stack Developer](https://user-images.githubusercontent.com/282759/84682528-c1d5d300-af03-11ea-9bfb-02854ad0cb20.gif)
 
 <h3 align="center">🚀 FullStack Developer 🚀</h3>
 <img align="right" src="https://user-images.githubusercontent.com/32466796/144721328-6da5fac6-6f91-4a51-86dd-889c0dba14b1.gif" width="250" height="250"/>
