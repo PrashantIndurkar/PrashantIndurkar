@@ -1,6 +1,6 @@
 ![github-header-image](https://user-images.githubusercontent.com/32466796/194533076-b7d3ed87-ca67-4bb5-a20e-f72bb30aa24e.png)
 
-<h3 align="center">Junior Front End developer</h3>
+<h3 align="center">Front End developer</h3>
 
 
 
