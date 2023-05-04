@@ -1,9 +1,5 @@
 ![github-header-image](https://user-images.githubusercontent.com/32466796/194533076-b7d3ed87-ca67-4bb5-a20e-f72bb30aa24e.png)
 
-<h3 align="center">Front End developer</h3>
-
-
-
 - 👨‍💻 All of my projects are available at [https://prashantindurkar.vercel.app/](https://prashantindurkar.vercel.app/)
 
 - 📫 How to reach me **prashantindurkarr@gmail.com**
