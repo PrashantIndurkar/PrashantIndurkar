@@ -1,7 +1,7 @@
 # Front End Engineer from India 🇮🇳
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prashantt.in)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashantindurkar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prashant2weet) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prashantt.in)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashantindurkar) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prashant2weet) 
 
 # 💻 Tech Stack:
 
